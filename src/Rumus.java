@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Rumus {
+public class Rumus {
+    double luas(){
+        return 0;
+    }
+    double keliling(){
+        return 0;
+    }
 }
